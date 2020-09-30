@@ -1,1 +1,10 @@
-Replace this with a list of your favorite things.
+# Favorite Things
+
+- Delicious food
+- Books and stories
+- Reading
+- Video games
+- Music
+- Cooking, Baking
+- Tabletop gaming
+- Traveling
