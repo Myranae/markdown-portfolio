@@ -1,1 +1,7 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+# List of Languages Known
+
+- **HTML5**
+- **CSS3**
+- *beginner Japanese*
+- *minimal French*
+- **intermediate Python**
